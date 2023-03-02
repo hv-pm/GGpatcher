@@ -1,6 +1,6 @@
 # General Game Patcher (GG!patcher)
 
-<img src="" align="center"></img>
+<p align="center"><img width="460" height="190" src="https://github.com/hv-pm/GGpatcher/blob/main/assets/logo/GG!patcher_logo.svg"></img></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Games, especially MMORPGs, usually have an initial UI screen to update and repair the game files, show the patch notes for updates, and to allow the user to change the game's settings before launching it. This UI is usually called `Patcher`.
 The GG!patcher is a fruition of a study on how to implement a general-purpose patcher with Python, PyQT5 and QT Designer that could be applied to any game that is capable of receiving online updates. The visual identity adopted for the GG!patcher's inbuilt example is a homage to Trickster Online (2006-2013), but the instructions bellow will guide you to change the GG!patcher at your will.
